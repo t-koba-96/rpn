@@ -21,7 +21,7 @@ handpose
 - Weights　URL
     - [openpose](https://www.dropbox.com/sh/7xbup2qsn7vvjxo/AABWFksdlgOMXR_r5v3RwKRYa?dl=0)
     - [ssd](https://s3.amazonaws.com/amdegroot-models/ssd300_mAP_77.43_v2.pth)  
-    - [ttfnet]()
+    - [ttfnet](https://github.com/t-koba-96/rpn/releases/download/ttfnet_weight/latest.pth)
 
 
 
